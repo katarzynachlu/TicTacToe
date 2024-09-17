@@ -1,0 +1,5 @@
+C:\Users\katar\source\repos\TicTacToe\bin\Release\net8.0-windows\publish\TicTacToe.exe
+C:\Users\katar\source\repos\TicTacToe\bin\Release\net8.0-windows\publish\TicTacToe.dll
+C:\Users\katar\source\repos\TicTacToe\bin\Release\net8.0-windows\publish\TicTacToe.deps.json
+C:\Users\katar\source\repos\TicTacToe\bin\Release\net8.0-windows\publish\TicTacToe.runtimeconfig.json
+C:\Users\katar\source\repos\TicTacToe\bin\Release\net8.0-windows\publish\TicTacToe.pdb

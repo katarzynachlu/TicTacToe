@@ -1,0 +1,2 @@
+The application was created as part of a master's thesis on 'Data Analysis - Big Data' in the College of Economic Analysis at the Institute of Mathematical Economics under the scientific direction of Dr. Maria Ekes. Author: Katarzyna Chludzinska Year: 2024
+To run the application, go to the location: bin/Release/net8.0-windows/publish/win-x64 and download the entire “win-x64” folder. After downloading the folder, open it and run the TicTacToe.exe application. That's it, you can now freely use the application. Good luck!
